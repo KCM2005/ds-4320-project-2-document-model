@@ -27,4 +27,4 @@ This study analyzed 30-day readmission risk among diabetic patients by focusing 
 - For the rest of the primary diagnoses: Females have a slightly higher readmission rate compared to males. For example, heart attack (10.6% females and 10.1% males were readmitted), cardiac dysrhythmias (10.1% females and 8.1% males were readmitted), and osteoarthritis (11.2% females and 8.1% males were readmitted))
 
 # Chart
-![Primary Diagnosis Visualization](Screenshots/Primary_Diagnosis_visualization.png)
+![Primary Diagnosis Visualization](Figures/Primary_Diagnosis_visualization.png)
