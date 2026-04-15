@@ -12,7 +12,7 @@ kew6jk
 insert DOI
 
 # Press release
-[insert link](https://github.com/KCM2005/ds-4320-project-2-document-model/blob/main/Press_release.md)
+[Press release](https://github.com/KCM2005/ds-4320-project-2-document-model/blob/main/Press_release.md)
 
 # Pipeline
 insert link to pipeline
