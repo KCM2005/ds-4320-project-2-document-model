@@ -17,7 +17,7 @@ insert DOI
 [Press release](https://github.com/KCM2005/ds-4320-project-2-document-model/blob/main/Press_release.md)
 
 # Pipeline
-insert link to pipeline
+[Pipeline](https://github.com/KCM2005/ds-4320-project-2-document-model/blob/main/Pipeline.ipynb)
 
 # License
 insert license
