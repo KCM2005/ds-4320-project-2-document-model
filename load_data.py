@@ -7,26 +7,20 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
-def load_data(path="diabetic_data.csv"):
+def load_data():
     """
-    Loads the raw diabetic dataset from a CSV file.
-
-    Parameters:
-        path (str): Path to the dataset file
-
-    Returns:
-        pd.DataFrame: Loaded dataset as a pandas DataFrame
+    Loads the raw diabetic dataset from a CSV file into a pandas DataFrame.
+    Logs success or failure of the loading process.
     """
+
+    #Loading dataset
     try:
-        # Load CSV file into DataFrame
-        df = pd.read_csv(path)
-
-        # Reset index for consistency
+        df = pd.read_csv("diabetic_data.csv")
         df = df.reset_index(drop=True)
-
-        logging.info("Dataset loaded successfully")
+        logging.info("csv loaded successfully")
+        print("CSV file loaded successfully")
         return df
 
     except Exception as e:
-        logging.error(f"Load error: {e}")
+        logging.error(f"csv loading error: {e}")
         return None
