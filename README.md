@@ -42,6 +42,7 @@ Focusing on primary comorbidities is crucial because diabetic patients often pre
 
 ## Headline and link to press release
 Headline: Targeting the within 30-day hospital readmissions: Top 10 key diabetes-related primary diagnoses by gender unveiled
+
 Link: https://github.com/KCM2005/ds-4320-project-2-document-model/blob/main/Press_release.md
 
 ## Terminology
