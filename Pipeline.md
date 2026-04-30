@@ -10,9 +10,11 @@
     Collecting dnspython<3.0.0,>=2.6.1 (from pymongo)
       Downloading dnspython-2.8.0-py3-none-any.whl.metadata (5.7 kB)
     Downloading pymongo-4.17.0-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (1.8 MB)
-    [?25l   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/1.8 MB[0m [31m?[0m eta [36m-:--:--[0m[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.8/1.8 MB[0m [31m75.3 MB/s[0m eta [36m0:00:00[0m
+    [?25l   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/1.8 MB[0m [31m?[0m eta [36m-:--:--[0m
+[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.8/1.8 MB[0m [31m75.3 MB/s[0m eta [36m0:00:00[0m
     [?25hDownloading dnspython-2.8.0-py3-none-any.whl (331 kB)
-    [?25l   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/331.1 kB[0m [31m?[0m eta [36m-:--:--[0m[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m331.1/331.1 kB[0m [31m31.7 MB/s[0m eta [36m0:00:00[0m
+    [?25l   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/331.1 kB[0m [31m?[0m eta [36m-:--:--[0m
+[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m331.1/331.1 kB[0m [31m31.7 MB/s[0m eta [36m0:00:00[0m
     [?25hInstalling collected packages: dnspython, pymongo
     Successfully installed dnspython-2.8.0 pymongo-4.17.0
 
@@ -515,7 +517,7 @@ except Exception as e:
 
 
     
-![png](Pipeline_files/Pipeline_17_0.png)
+![png](Primary_Diagnosis_visualization.png)
     
 
 
