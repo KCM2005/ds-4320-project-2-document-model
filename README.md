@@ -11,7 +11,7 @@ Kalenga Mumba
 kew6jk
 
 # DOI
-insert DOI
+[DOI](https://doi.org/10.5281/zenodo.19906831)
 
 # Press release
 [Press release](https://github.com/KCM2005/ds-4320-project-2-document-model/blob/main/Press_release.md)
