@@ -20,7 +20,7 @@ kew6jk
 [Pipeline](https://github.com/KCM2005/ds-4320-project-2-document-model/blob/main/Pipeline.ipynb)
 
 # License
-insert license
+MIT License: https://github.com/KCM2005/ds-4320-project-2-document-model/blob/main/LICENSE
 
 ## Initial general problem
 Predicting hospital readmission risk
